@@ -1,0 +1,8 @@
+C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Documents and Settings\Metal\Meus documentos\Visual Studio 2008\Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
